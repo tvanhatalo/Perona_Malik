@@ -1,3 +1,6 @@
+# Pour le rapport final du projet
+Cf. [./SCRIPTS_MAISON\Rapport_Perona.pdf](./SCRIPTS_MAISON\Rapport_Perona.pdf) 
+
 # Pour l'évaluation
 
 -   **Prendre 10 min à chaque fin de séance pour écrire ce qu'on a fait dans le
@@ -66,6 +69,6 @@ On va généraliser le code produit dans la partie précédente au cas des image
 3.  Trouver des images représentatives pour montrer les propriétés des filtres
     programmés, et illustrer les résultats obtenus.
 
-## refs
+## Les réfèrences utilisées
 
-Voir le répertoire [./refs](./refs)
+Voir le répertoire [./REFS](./REFS)
